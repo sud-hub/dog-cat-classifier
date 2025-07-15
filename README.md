@@ -1,2 +1,2 @@
 # dog-cat-classifier
-Classifies dogs and cats
+Classifies dogs and cats images
